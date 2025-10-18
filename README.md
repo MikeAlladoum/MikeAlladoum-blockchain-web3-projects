@@ -22,6 +22,6 @@ Construire un ensemble de projets concrets pour :
  Auteur
 Mike Alladoum 
 Étudiant passionné par la blockchain et les technologies décentralisées.  
-[GitHub](https://github.com/MikeAlladoum) | [LinkedIn](https://www.linkedin.com/in/mike-alladoum/)
+[GitHub](https://github.com/MikeAlladoum) | [LinkedIn](https://www.linkedin.com//in/mike-alladoum)
 
 
