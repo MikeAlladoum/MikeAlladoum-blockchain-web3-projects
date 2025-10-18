@@ -3,7 +3,8 @@ LegendToken (LGD)
 Un token ERC20 déployé sur Sepolia Testnet et à l’aide d’OpenZeppelin.
 
  Adresse du contrat
-0x28592C556Ec4E2cD48E73d3105c738201B72b2aB
+[0x28592C556Ec4E2cD48E73d3105c738201B72b2aB](https://sepolia.etherscan.io/address/0x28592C556Ec4E2cD48E73d3105c738201B72b2aB)
+
 
  Fonctionnalités:
  Nom : LegendToken
